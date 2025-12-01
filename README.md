@@ -1,13 +1,14 @@
 ## Hi there 👋
 
 Right now I am working on:
-  - A new Assembler with high level features and principles from other microarchitectures
-  - A port of super smash brothers to the NES
-  - Project [nescube](https://github.com/stars/brette-0/lists/nescube)
+  - A Universal High Level Assembler with LSP and neovim extension
+  - A moddable, modular NES Emulator to test sandbox experimental hardware
+  - A new NES cartridge mapper with specs undetermined but the focus of a coproecssor
 
 After this, I will begin developing
-  - First person air-conflict game for the gameboy
-  - More secret things... 🤫
+  - Modern Controller Adaptors for the NES
+  - A homebrew smash-like for the NES
+  - new IDE technology for the NES
 
 Current Learning:
-  - Rust, powerpc, Sharp SM84, DMG-01
+  - emudev, tooldev, libdev
